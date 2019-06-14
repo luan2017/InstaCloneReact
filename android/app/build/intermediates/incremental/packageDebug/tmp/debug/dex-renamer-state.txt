@@ -1,4 +1,4 @@
-#Thu Jun 13 17:13:56 AMT 2019
-base.0=/Users/marcelodias/Documents/WLP/Cursos/instarocket/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Fri Jun 14 18:10:39 AMT 2019
+base.0=/Users/marcelodias/Documents/WLP/Cursos/InstaCloneReact/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

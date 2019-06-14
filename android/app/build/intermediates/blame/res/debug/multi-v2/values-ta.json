@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/marcelodias/Documents/WLP/Cursos/instarocket/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "/Users/marcelodias/Documents/WLP/Cursos/InstaCloneReact/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/ae7e5cb6d836e4ba508564c9e6f6a407/res/values-ta/values-ta.xml",
